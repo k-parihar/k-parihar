@@ -11,7 +11,7 @@
 
 <br />
 
-hi, i'm [Kuldeep Parihar](https://www.linkedin.com/in/kuldeepparihar/), a passionate full stack web developer from Noida.
+Hi, I'm [Kuldeep Parihar](https://www.linkedin.com/in/kuldeepparihar/), a full stack web developer from Noida.
 
 
 **languages and tools:**  
