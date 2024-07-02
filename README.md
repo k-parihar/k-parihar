@@ -1,10 +1,7 @@
 ### hey there 
-<a href="https://www.instagram.com/pun.e.yaar/">
-  <img align="left" alt="Kuldeep's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 
 <a href="https://www.linkedin.com/in/kuldeepparihar/">
-  <img align="left" alt="Kuldeep's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kuldeep's LinkedIN" width="22px" src="https://icons.getbootstrap.com/assets/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kuldeepparihar)
